@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+
+<h2>
+    Current  DateTime and year :
+    @HttpContextAccessor.HttpContext.Session.GetString("CurrentDateTime")
+    @HttpContextAccessor.HttpContext.Session.GetInt32("CurrentYear")
+</h2>
+@model string
+
+<h2>Login</h2>
+
+
+@if(Model!= null)
+{
+    <div    class="alert alert-danger">Login Failed</div>
+}
+
+@if(ViewBag.Message!=null)
+{
+    <div class="alert alert-danger">@ViewBag.Message</div>
+}
+
+<form method="post">
+    <table class="w-25 table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th>User Name :</th>
+            <td><input  type="text" name="username"/></td>
+        </tr>
+            <tr>
+                <th>Password:</th>
+                <td><input type="password" name="password" /></td>
+            </tr>
+            <tr>
+                <td >
+                    <input type="submit" value="login"/> 
+                </td>
+            </tr>
+    </tbody>    
+    
+    
+    </table>
+</form>

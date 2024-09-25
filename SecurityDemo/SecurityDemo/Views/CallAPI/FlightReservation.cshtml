@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Reservation>
+
+    @{
+        ViewBag.Title = "Reservation List";
+    }
+    @inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+
+<h2>
+    Current  DateTime and year :
+    @HttpContextAccessor.HttpContext.Session.GetString("CurrentDateTime")
+    @HttpContextAccessor.HttpContext.Session.GetInt32("CurrentYear")
+
+</h2>
+
+    <h2>All Reservations</h2>
+
+    <table class="table table-sm table-striped table-bordered">
+        <thead>
+            <th>Id</th>
+    <th>Name</th>
+
+    <th>StartLocation</th>
+    <th>EndLocation</th>
+
+        </thead>
+        <tbody>
+            @if(Model !=null)
+            {
+            foreach(var r in Model)
+            {
+                <tr>
+                    <td>@r.Id</td>
+                    <td>@r.Name</td>
+                    <td>@r.StartLocation</td>
+                    <td>@r.EndLocation</td>
+
+                </tr>
+            }
+        }
+
+
+        </tbody>
+    </table>

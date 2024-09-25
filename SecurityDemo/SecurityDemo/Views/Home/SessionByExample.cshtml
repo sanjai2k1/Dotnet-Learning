@@ -1,0 +1,8 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+
+<h2>
+Current  DateTime and year :
+    @HttpContextAccessor.HttpContext.Session.GetString("CurrentDateTime")
+    @HttpContextAccessor.HttpContext.Session.GetInt32("CurrentYear")
+
+</h2>

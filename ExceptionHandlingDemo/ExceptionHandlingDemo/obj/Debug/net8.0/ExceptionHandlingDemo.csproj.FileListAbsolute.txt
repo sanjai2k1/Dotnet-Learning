@@ -1,0 +1,14 @@
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.AssemblyInfo.cs
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.exe
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.deps.json
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.runtimeconfig.json
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.dll
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.pdb
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.dll
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net8.0\refint\ExceptionHandlingDemo.dll
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.pdb
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.genruntimeconfig.cache
+C:\Users\sanjai.j\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net8.0\ref\ExceptionHandlingDemo.dll

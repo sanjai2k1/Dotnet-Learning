@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\controllers\\callapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\controllers\\callapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\views\\callapi\\flightreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\views\\callapi\\flightreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\securitydemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\securitydemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\views\\callapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\views\\callapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\views\\home\\sessionbyexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\views\\home\\sessionbyexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\views\\home\\viewbagexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\views\\home\\viewbagexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|c:\\users\\sanjai.j\\source\\repos\\securitydemo\\securitydemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4986909-5B56-4451-A330-6D7FD047526B}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecurityDemo",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\SecurityDemo.csproj",
+              "RelativeDocumentMoniker": "SecurityDemo\\SecurityDemo.csproj",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\SecurityDemo.csproj",
+              "RelativeToolTip": "SecurityDemo\\SecurityDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T11:14:15.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "SecurityDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\appsettings.json",
+              "RelativeToolTip": "SecurityDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T05:12:13.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SecurityDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:41:00.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SecurityDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:05:31.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\CallAPI\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo\\Views\\CallAPI\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\CallAPI\\Index.cshtml",
+              "RelativeToolTip": "SecurityDemo\\Views\\CallAPI\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvy0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T12:35:57.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CallAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Controllers\\CallAPIController.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Controllers\\CallAPIController.cs",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Controllers\\CallAPIController.cs",
+              "RelativeToolTip": "SecurityDemo\\Controllers\\CallAPIController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwDEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:46:02.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Program.cs",
+              "RelativeToolTip": "SecurityDemo\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:20:36.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "SecurityDemo\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:33:56.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlightReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\CallAPI\\FlightReservation.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo\\Views\\CallAPI\\FlightReservation.cshtml",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\CallAPI\\FlightReservation.cshtml",
+              "RelativeToolTip": "SecurityDemo\\Views\\CallAPI\\FlightReservation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T12:41:26.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionByExample.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\Home\\SessionByExample.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo\\Views\\Home\\SessionByExample.cshtml",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\Home\\SessionByExample.cshtml",
+              "RelativeToolTip": "SecurityDemo\\Views\\Home\\SessionByExample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:54:03.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewBagExample.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\Home\\ViewBagExample.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo\\Views\\Home\\ViewBagExample.cshtml",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\Home\\ViewBagExample.cshtml",
+              "RelativeToolTip": "SecurityDemo\\Views\\Home\\ViewBagExample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:33:34.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SecurityDemo\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:55:54.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SecurityDemo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:39:20.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\SecurityDemo\\SecurityDemo\\Models\\Reservation.cs",
+              "RelativeToolTip": "SecurityDemo\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:37:46.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

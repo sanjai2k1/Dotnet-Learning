@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanjai.j\\source\\repos\\jwtfronttest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C545ECEA-4B6A-476A-9DA3-1C2F6AA77C12}|jwtfronttest\\jwtfronttest.csproj|c:\\users\\sanjai.j\\source\\repos\\jwtfronttest\\jwtfronttest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C545ECEA-4B6A-476A-9DA3-1C2F6AA77C12}|jwtfronttest\\jwtfronttest.csproj|solutionrelative:jwtfronttest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sanjai.j\\source\\repos\\jwtfronttest\\jwtfronttest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "jwtfronttest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sanjai.j\\source\\repos\\jwtfronttest\\jwtfronttest\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "jwtfronttest\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:51:53.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

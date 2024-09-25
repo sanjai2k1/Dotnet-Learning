@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "jwttest.Controllers.AuthController",
+    "Method": "GetToken",
+    "RelativePath": "Auth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
